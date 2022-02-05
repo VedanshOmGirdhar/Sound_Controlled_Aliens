@@ -1,0 +1,31 @@
+.heading{
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: powderblue;
+    padding: 50px;
+    font-family: 'Source Serif 4', sans-serif;
+    
+}
+
+button{
+    width: 15%;
+    margin: 20px;
+    font-size: 25px;
+    }
+
+.main_div{
+        background-color: pink;
+        padding: 125px;
+        font-family: 'Architects Daughter', cursive;
+        font-weight: bold;
+    }
+.copyright_footer{
+text-align: center;
+font-size: 25px;
+margin: 40px;
+font-family: 'Quintessential', cursive;
+text-shadow: 5px 5px 5px rgb(151, 149, 149);
+
+    }
+    
